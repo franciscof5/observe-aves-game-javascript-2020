@@ -2,7 +2,7 @@
   text-align: center;
 }
 #image-container img {
-  max-height: 220px;
+  max-height: 150px;
 }
 .choice-container {
   display: flex;
