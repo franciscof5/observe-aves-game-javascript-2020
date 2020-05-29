@@ -1,6 +1,9 @@
 #image-container {
   text-align: center;
 }
+#image-container img {
+  max-height: 220px;
+}
 .choice-container {
   display: flex;
   margin-bottom: 0.5rem;
