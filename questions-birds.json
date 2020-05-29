@@ -1,0 +1,52 @@
+{
+	"response_code": 0,
+	"results": [{
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://pt.wikipedia.org/wiki/Ficheiro:Pitangus_sulphuratus_3.jpg",
+		"question": "Do que se alimenta um bem-te-vi?",
+		"correct_answer": "Bananas",
+		"incorrect_answers": ["Vidro", "Peixes", "Ovos"]
+	}, {
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i.pinimg.com/originals/6c/47/07/6c4707630761143b91f2f7f225001354.jpg",
+		"question": "Qual cor de papagaio não existe?",
+		"correct_answer": "Preto",
+		"incorrect_answers": ["Roxo", "Verde", "Amarelo"]
+	}, {
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i.pinimg.com/474x/e3/20/fc/e320fc6b1abc24247b0083b38e3dbe2e.jpg",
+		"question": "Qual horário é possível ver papagaios",
+		"correct_answer": "6:30",
+		"incorrect_answers": ["8:00", "15:00", "21:30"]
+	}, {
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i.pinimg.com/originals/cf/01/bb/cf01bb0c4b14802565856404e1c2dd12.jpg",
+		"question": "Qual dos pássaros não canta?",
+		"correct_answer": "Mudinho de Cana",
+		"incorrect_answers": ["Pavaroti", "Canário", "Tenor de Asas"]
+	}, {
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://static.escolakids.uol.com.br/conteudo_legenda/1b7b4f9fc862c340604a6de21da49515.jpg",
+		"question": "Qual continente origem do papagaio?",
+		"correct_answer": "America",
+		"incorrect_answers": ["África", "Europa", "Ásia"]
+	}, {
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i0.statig.com.br/bancodeimagens/0a/ve/mm/0avemmbd8e03snftfdrdjnoe8.jpg",
+		"question": "Qual destas aves consegue imitar vozes e risadas?",
+		"correct_answer": "Papagaio",
+		"incorrect_answers": ["Pretinho", "Sabiá", "Cascari"]
+	}]
+}
